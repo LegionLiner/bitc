@@ -1,0 +1,299 @@
+{
+    "header": {
+        "router": {
+            "arbitrage": "Arbitrage",
+            "p2pspread": "P2P Spread",
+            "calculator": "Сalculator",
+            "help": "Help"
+        },
+        "btn": {
+            "login": "Login",
+            "createAccount": "Create Account"
+        },
+        "profile": "Profile",
+        "popUp": {
+            "profile": "Profile",
+            "blackList": "Black list",
+            "subscription": "Subscriptions",
+            "logout": "Logout"
+        }
+    },
+    "footer": {
+        "arbitrage": "Arbitrage",
+        "rates": "Rates",
+        "help": "Help",
+        "login": "Login",
+        "logOut": "Log Out",
+        "profile": "Profile",
+        "p2pspread": "P2P Spread",
+        "calculatorSpread": "Calculator Spread",
+        "calculatorPercent": "Calculator Percent",
+        "additionally": "Additionally"
+    },
+    "loginPopUp": {
+        "title": "Login",
+        "placeholder": {
+            "email": "Email",
+            "password": "Password"
+        },
+        "forgotPassword": "Forgot your password?",
+        "btn": "Login",
+        "notReg": "Not with us yet?",
+        "createAccount": "Create Account"
+    },
+    "registrationPopUp": {
+        "title": "Create Account",
+        "placeholder": {
+            "login": "Login",
+            "email": "Email",
+            "password": "Password",
+            "repeatPassword": "Repeat password"
+        },
+        "btn": "Create Account",
+        "isReg": "Already with us?",
+        "login": "Login"
+    },
+    "layouts": {
+        "arbitrage": {
+            "p2p": "P2P",
+            "spot": "SPOT"
+        },
+        "personal": {
+            "settings": "Settings",
+            "subscription": "Subscription",
+            "blackList": "Black list"
+        },
+        "p2pspread": {
+            "spread": "P2P Spread"
+        },
+        "calculator": {
+            "calculatorSpread": "Calculator Spread",
+            "calculatorPercent": "Calculator Percent",
+            "persentCalculator": {
+                "increace": "Increase",
+                "decrease": "Decrease",
+                "header": "Persent calculator",
+                "title": "the number by persentage",
+                "gotResult": "Got result",
+                "persentOfaNumber": "Persent of a number",
+                "number": "Number",
+                "on": "on"
+            }
+        }
+    },
+    "userFilters": {
+        "title": "Profile:",
+        "subTitle": "Profiles",
+        "btn": "Add new profile",
+        "nochoise": "not selected",
+        "deleteBtn": "Delete",
+        "cancelBtn": "Cancel",
+        "deleteTitle": "Delete profile",
+        "deleteText": "Are you sure you want to delete this profile?"
+    },
+    "filter": {
+        "reset": "Reset",
+        "all": "All",
+        "from": "from",
+        "to": "to",
+        "filterP2P": {
+            "currency": {
+                "title": "Fiat",
+                "placeholder": "Search by fiats"
+            },
+            "exchanges": {
+                "title": "Exchanges",
+                "placeholder": "Search by exchanges"
+            },
+            "paymentSystems": {
+                "title": "Payment systems",
+                "placeholder": "Search by payment systems"
+            },
+            "cryptocurrency": {
+                "title": "Coins",
+                "placeholder": "Search by coins"
+            },
+            "tradingMethod": {
+                "title": "Trading method",
+                "purchase": "Purchase:",
+                "sale": "Sale:",
+                "maker": "Maker",
+                "taker": "Taker"
+            },
+            "deposit": "Deposit",
+            "additionalFilters": {
+                "title": "Additional filters",
+                "bundleParameters": {
+                    "title": "Bundle parameters",
+                    "spread": "Spread, %",
+                    "limit": "Limit",
+                    "numberActions": {
+                        "title": "Count actions",
+                        "twoActions": "2 actions",
+                        "threeActions": "3 actions"
+                    },
+                    "buyingSelling": {
+                        "title": "Buying-Selling",
+                        "all": "All",
+                        "interexchange": "Interexchange",
+                        "intraexchange": "Intraexchange"
+                    }
+                },
+                "merchantCriteria": {
+                    "title": "Merchant",
+                    "amountDeals": "Amount of deals",
+                    "successfulTransactions": "Successful, %",
+                    "onlyVerified": "Only verified"
+                },
+                "dataUpdate": "Data update frequency",
+                "sec": "sec."
+            }
+        },
+        "filterSpot": {
+            "exchangePurchases": {
+                "title": "Exchange purchases",
+                "placeholder": "Search by purchase exchanges"
+            },
+            "salesExchanges": {
+                "title": "Sales exchanges",
+                "placeholder": "Search by sales exchanges"
+            },
+            "update": "Update, ",
+            "sec": "s.",
+            "spread": "Spread, %",
+            "hideIlliquid": "Hide illiquid trades"
+        },
+        "mobileFilterTitle": "Show filters",
+        "mobileFilterSubtitle1": "Filters"
+    },
+    "table": {
+        "bundle": "Bundle",
+        "exchange": "Exchange",
+        "method": "Method",
+        "well": "Price",
+        "limit": "Limit",
+        "spread": "Spread",
+        "noData": "No data"
+    },
+    "paginator": {
+        "page": "page"
+    },
+    "personalArea": {
+        "btn": "Buy Premium",
+        "settings": {
+            "profile": {
+                "title": "Profile",
+                "logOut": "Log out"
+            },
+            "personalArea": {
+                "title": "Personal area",
+                "name": "Name",
+                "nameInfo": "This name will be used as a login on the service.",
+                "password": "Password",
+                "passwordInfo": "You can always change your password.",
+                "btnName": "Change name",
+                "btnPass": "Change password"
+            }
+        },
+        "rates": {
+            "title": "Rates",
+            "tarif": {
+                "title": "Review of Arbi hub service tariffs for different categories of arbitrators",
+                "base": "Base",
+                "standard": "Standard",
+                "premium": "Premium",
+                "month": "/month"
+            },
+            "bonus": {
+                "spreads": "Spreads",
+                "monitoring": "Monitoring",
+                "prioritySupport": "Priority support",
+                "twoSteps": "Table in 2 steps",
+                "threeSteps": "Table in 3 steps"
+            }
+        },
+        "blackList": {
+            "title": "Black list",
+            "remove": "Remove from blacklist",
+            "noComent": "No comment",
+            "table": {
+                "userName": "User name",
+                "exchange": "Exchange",
+                "comment": "Comment",
+                "date": "Date added to the blacklist",
+                "action": "Action"
+            }
+        }
+    },
+    "stepProcces": {
+        "title": "Process steps",
+        "buyAs": "Buy",
+        "sellAs": "Sell",
+        "buy": "Buy",
+        "sell": "Sell",
+        "conversion": "Conversion",
+        "translate": "Transfer",
+        "networks": "Networks",
+        "exchange": "Exchange",
+        "paymentMethod": "Payment methods",
+        "cryptocurrency": "Coins",
+        "intersectChains": "Available chains",
+        "well": "Price",
+        "limit": "Limit",
+        "available": "Available",
+        "merchant": "Merchant",
+        "transactions": "Transactions",
+        "successful": "Successful",
+        "commission": "Commission",
+        "commissionText": "No data",
+        "result": "We get the result:",
+        "spread": "Spread",
+        "messBL": "The merchant is blacklisted by other users",
+        "cup": {
+            "title": "Cup",
+            "price": "Price",
+            "quantity": "Quantity",
+            "spread": "Spread",
+            "count": " pcs."
+        }
+    },
+    "p2pSpread": {
+        "title": {
+            "exchange": "Exchange",
+            "currency": "Currency",
+            "coin": "Coin",
+            "priceType": "Price type"
+        },
+        "typePrice": {
+            "one": "Best price",
+            "three": "TOP 3",
+            "five": "TOP 5",
+            "ten": "TOP 10"
+        },
+        "coment": {
+            "exchange": "Select an exchange",
+            "currency": "Select currency"
+        }
+    },
+    "calculator": {
+        "spread": {
+            "title": "Spread calculator",
+            "removeCommissions": "Remove commissions",
+            "threeSteps": "In 3 steps",
+            "startCapital": "Initial capital",
+            "numberLaps": "Number of laps",
+            "purchasePrice": "Purchase price",
+            "exchangePrice": "Exchange price",
+            "sellPrice": "Selling price",
+            "commission": "Commission, %",
+            "spread": "Spread, %",
+            "profit": "Profit",
+            "deal": "Deal",
+            "operation": "Operation",
+            "finalCapital": "Final capital",
+            "turnover": "Turnover",
+            "deals": "Deals"
+        },
+        "percent": {}
+    }
+}

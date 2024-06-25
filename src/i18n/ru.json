@@ -1,0 +1,300 @@
+{
+    "header": {
+        "router": {
+            "arbitrage": "Связки",
+            "p2pspread": "P2P Спреды",
+            "calculator": "Калькулятор",
+            "help": "Помощь"
+        },
+        "btn": {
+            "login": "Войти",
+            "createAccount": "Создать аккаунт"
+        },
+        "profile": "Мой профиль",
+        "popUp": {
+            "profile": "Профиль",
+            "blackList": "Черный список",
+            "subscription": "Подписка",
+            "logout": "Выход из аккаунта"
+        }
+    },
+    "footer": {
+        "arbitrage": "Связки",
+        "rates": "Тарифы",
+        "help": "Помощь",
+        "login": "Войти",
+        "logOut": "Log Out",
+        "profile": "Профиль",
+        "p2pspread": "P2P Спреды",
+        "calculatorSpread": "Калькулятор Спредов",
+        "calculatorPercent": "Калькулятор Процентов",
+        "additionally": "Дополнительно"
+    },
+    "loginPopUp": {
+        "title": "Войти",
+        "placeholder": {
+            "email": "Email",
+            "password": "Пароль"
+        },
+        "forgotPassword": "Забыли пароль?",
+        "btn": "Войти",
+        "notReg": "Еще не с нами?",
+        "createAccount": "Создать аккаунт"
+    },
+    "registrationPopUp": {
+        "title": "Создать аккаунт",
+        "placeholder": {
+            "login": "Логин",
+            "email": "Email",
+            "password": "Пароль",
+            "repeatPassword": "Повторите пароль"
+        },
+        "btn": "Создать аккаунт",
+        "isReg": "Уже с нами?",
+        "login": "Войти"
+    },
+    "layouts": {
+        "arbitrage": {
+            "p2p": "P2P",
+            "spot": "SPOT"
+        },
+        "personal": {
+            "settings": "Настройки",
+            "subscription": "Подписка",
+            "blackList": "Черный список"
+        },
+        "p2pspread": {
+            "spread": "P2P Спред"
+        },
+        "calculator": {
+            "calculatorSpread": "Калькулятор Спредов",
+            "calculatorPercent": "Калькулятор Процентов",
+            "persentCalculator": {
+                "increace": "Увеличить",
+                "decrease": "Уменьшить",
+                "header": "Калькулятор процента",
+                "title": "число на процент",
+                "gotResult": "Получаем результат",
+                "persentOfaNumber": "Процент от числа",
+                "number": "Число",
+                "on": "на"
+            }
+        }
+    },
+    "userFilters": {
+        "title": "Профиль:",
+        "subTitle": "Профиль",
+        "btn": "Добавить новый профиль",
+        "nochoise": "не выбран",
+        "deleteBtn": "Удалить",
+        "cancelBtn": "Отмена",
+        "deleteTitle": "Удаление профиля",
+        "deleteText": "Вы уверены, что хотите удалить этот профиль?"
+    },
+    "filter": {
+        "reset": "Сбросить",
+        "all": "Все",
+        "from": "от",
+        "to": "до",
+        "filterP2P": {
+            "currency": {
+                "title": "Валюта",
+                "placeholder": "Поиск по валютам"
+            },
+            "exchanges": {
+                "title": "Биржи",
+                "placeholder": "Поиск по биржам"
+            },
+            "paymentSystems": {
+                "title": "Платежные системы",
+                "placeholder": "Поиск по платежным системам"
+            },
+            "cryptocurrency": {
+                "title": "Криптовалюта",
+                "placeholder": "Поиск по криптовалюте"
+            },
+            "tradingMethod": {
+                "title": "Метод Торговли",
+                "purchase": "Покупка:",
+                "sale": "Продажа:",
+                "maker": "Мейкер",
+                "taker": "Тейкер"
+            },
+            "deposit": "Депозит",
+            "additionalFilters": {
+                "title": "Дополнительные фильтры",
+                "bundleParameters": {
+                    "title": "Параметры связки",
+                    "spread": "Спред, %",
+                    "limit": "Лимит",
+                    "numberActions": {
+                        "title": "Количество действий в связке",
+                        "twoActions": "2 действия",
+                        "threeActions": "3 действия"
+                    },
+                    "buyingSelling": {
+                        "title": "Покупка-продажа",
+                        "all": "Все",
+                        "interexchange": "Межбирж.",
+                        "intraexchange": "Внутрибирж."
+                    }
+                },
+                "merchantCriteria": {
+                    "title": "Критерии мерчантов",
+                    "amountDeals": "Количество сделок",
+                    "successfulTransactions": "Успешные сделки, %",
+                    "onlyVerified": "Только проверенные"
+                },
+                "dataUpdate": "Периодичность обновления данных",
+                "sec": "сек."
+            }
+        },
+        "filterSpot": {
+            "exchangePurchases": {
+                "title": "Биржи покупки",
+                "placeholder": "Поиск по биржам покупки"
+            },
+            "salesExchanges": {
+                "title": "Биржи продажи",
+                "placeholder": "Поиск по биржам продажи"
+            },
+            "update": "Апдейт, ",
+            "sec": "с.",
+            "spread": "Спред, %",
+            "hideIlliquid": "Скрывать неликвидные сделки"
+        },
+        "mobileFilterTitle": "Показать фильтры",
+        "mobileFilterSubtitle1": "Фильтры"
+    },
+    "table": {
+        "bundle": "Связка",
+        "exchange": "Биржа",
+        "method": "Метод",
+        "well": "Курс",
+        "limit": "Лимит",
+        "spread": "Спред",
+        "noData": "Нет данных"
+    },
+    "paginator": {
+        "page": "стр."
+    },
+    "personalArea": {
+        "btn": "Купить Премиум",
+        "settings": {
+            "profile": {
+                "title": "Профиль",
+                "logOut": "Выйти"
+            },
+            "personalArea": {
+                "title": "Персональная информация",
+                "name": "Имя",
+                "nameInfo": "Это имя будет использоваться как логин на сервисе.",
+                "password": "Пароль",
+                "passwordInfo": "Вы всегда можете сменить пароль.",
+                "btnName": "Сменить имя",
+                "btnPass": "Сменить пароль"
+            }
+        },
+        "rates": {
+            "title": "Тарифы",
+            "tarif": {
+                "title": "Обзор тарифов сервиса Arbi hub для разных категорий арбитражников",
+                "base": "Базовый",
+                "standard": "Стандарт",
+                "premium": "Премиум",
+                "month": "/месяц"
+            },
+            "bonus": {
+                "spreads": "Спреды",
+                "monitoring": "Мониторинг",
+                "prioritySupport": "Приоритетная поддержка",
+                "twoSteps": "Таблица в 2 действия",
+                "threeSteps": "Таблица в 3 действия"
+            }
+        },
+        "blackList": {
+            "title": "Черный список",
+            "remove": "Удалить из ЧС",
+            "noComent": "Нет коментария",
+            "table": {
+                "userName": "Имя пользователя",
+                "exchange": "Биржа",
+                "comment": "Коментарий",
+                "date": "Дата добавления в ЧС",
+                "action": "Действие"
+            }
+        }
+    },
+    "stepProcces": {
+        "title": "Этапы процесса",
+        "buyAs": "Покупаем",
+        "sellAs": "Продаем",
+        "buy": "Покупаем",
+        "sell": "Продаем",
+        "conversion": "Конвертация",
+        "translate": "Перевод",
+        "networks": "Доступные сети",
+        "exchange": "Биржа",
+        "paymentMethod": "Платежные методы",
+        "cryptocurrency": "Монеты",
+        "intersectChains": "Доступные сети",
+        "well": "Курс",
+        "limit": "Лимит",
+        "available": "Доступно",
+        "merchant": "Мерчант",
+        "transactions": "Сделок",
+        "successful": "Успешных",
+        "commission": "Комиссия",
+        "commissionText": "Нет данных",
+        "result": "Получаем результат:",
+        "spread": "Спред",
+        "messBL": "Мерчант находится в черном списке у других пользователей",
+        "cup": {
+            "title": "Стакан",
+            "price": "Цена",
+            "quantity": "Количество",
+            "spread": "Спред",
+            "count": "шт."
+        }
+    },
+    "p2pSpread": {
+        "title": {
+            "exchange": "Биржа",
+            "currency": "Валюта",
+            "coin": "Монета",
+            "priceType": "Тип цены"
+        },
+        "typePrice": {
+            "one": "Лучшая цена",
+            "three": "TОП 3",
+            "five": "TОП 5",
+            "ten": "TОП 10"
+        },
+        "coment": {
+            "exchange": "Выберите биржу",
+            "currency": "Выберите валюту"
+        }
+    },
+    "calculator": {
+        "spread": {
+            "title": "Калькулятор спреда",
+            "removeCommissions": "Убрать комиссии",
+            "threeSteps": "В 3 действия",
+            "startCapital": "Начальный капитал",
+            "numberLaps": "Количество кругов",
+            "purchasePrice": "Цена покупки",
+            "exchangePrice": "Цена обмена",
+            "sellPrice": "Цена продажи",
+            "commission": "Комиссия, %",
+            "spread": "Спред, %",
+            "profit": "Прибыль",
+            "deal": "Сделка",
+            "initialCapital": "Начальный капитал",
+            "operation": "Операция",
+            "finalCapital": "Конечный капитал",
+            "turnover": "Оборот",
+            "deals": "Deals"
+        },
+        "percent": {}
+    }
+}

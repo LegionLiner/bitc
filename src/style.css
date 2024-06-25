@@ -1,0 +1,54 @@
+@import './assets/styles/fonts.css';
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    width: 100vw;
+    overflow-x: hidden;
+}
+
+:root {
+    font-family: Inter;
+    line-height: 1.5;
+    font-weight: 400;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+    background: rgba(240, 243, 245, 0.49);
+    --white: #f4f5f782;
+    --white-link-active: #F8FAFC;
+    --blue-main: #4d80ef;
+    --blue-main-hover: #3b74f2;
+    --blue-secondary: #4d80ef1f;
+    --blue-secondary-hover: #4d80ef29;
+    --blue-text: #272d37;
+    --black: #111;
+    --gray-ligaments-text: #828D96;
+}
+
+.ligaments-title {
+    display: flex;
+    gap: 16px;
+    /*border-bottom: 1px solid rgba(107, 107, 107, 0.3);*/
+    /*border-top: 1px solid #EEF0F2;*/
+    /*border-bottom: 1px solid #EEF0F2;*/
+}
+
+#app {
+    @media screen and (min-width: 1140px) {
+        min-width: 1120px;
+        max-width: 70%;
+        margin: 0 auto;
+    }
+
+    @media screen and (max-width: 1140px) {
+        width: 100%;
+        max-width: 1140px;
+        margin: 0 auto;
+    }
+
+}
